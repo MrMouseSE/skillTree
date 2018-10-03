@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1763834975219336}
+  m_IsPrefabAsset: 1
+--- !u!1 &1763834975219336
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4388911106363378}
+  - component: {fileID: 114593540027836798}
+  m_Layer: 0
+  m_Name: SkillTreeCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4388911106363378
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1763834975219336}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114593540027836798
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1763834975219336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244bb5817dffd454b9b20cf3394191a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _PlaceChecker: {fileID: 1037197029199672, guid: 3cc83932d751f124a8cbaf2442d77b6f,
+    type: 2}
+  _Root: {fileID: 1869700900979670, guid: 16766f96627ea434a934cf67d55504d6, type: 2}
+  _MainSkill: {fileID: 1375827454854846, guid: 5424baca579eb724eb1ea8c43a8cb144, type: 2}
+  _MainSkillColor: {r: 0, g: 1, b: 0.118306875, a: 0}
+  _PassiveSkill: {fileID: 1554979001505836, guid: 1322de1e17dfbf949a9d0dd8059e7889,
+    type: 2}
+  _PassiveSkillColor: {r: 0.5754717, g: 0.08414916, b: 0.15386364, a: 0}
+  _Link: {fileID: 1379049139553122, guid: 9b090a0eb0850b948ab173b5675c12de, type: 2}
+  _LinkColor: {r: 0, g: 0.98952866, b: 1, a: 0}
+  _MaxBranches: {x: 0, y: 6}
+  _SkillDistance: 3
+  _TreeSteps: 3
+  _maxPassiveSkill: {x: 0, y: 16}
+  _SubSkillDistance: 0.85

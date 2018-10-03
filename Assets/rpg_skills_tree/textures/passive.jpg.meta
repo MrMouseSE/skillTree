@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: ac5da36bece792746a475b9f4113607e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_0
+    21300002: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_1
+    21300004: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_2
+    21300006: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_3
+    21300008: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_4
+    21300010: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_5
+    21300012: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_6
+    21300014: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_7
+    21300016: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_8
+    21300018: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_9
+    21300020: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_10
+    21300022: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_11
+    21300024: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_12
+    21300026: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_13
+    21300028: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_14
+    21300030: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_15
+    21300032: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_16
+    21300034: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_17
+    21300036: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_18
+    21300038: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_19
+    21300040: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_20
+    21300042: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_21
+    21300044: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_22
+    21300046: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_23
+    21300048: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_24
+    21300050: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_25
+    21300052: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_26
+    21300054: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_27
+    21300056: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_28
+    21300058: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_29
+    21300060: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_30
+    21300062: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_31
+    21300064: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_32
+    21300066: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_33
+    21300068: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_34
+    21300070: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_35
+    21300072: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_36
+    21300074: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_37
+    21300076: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_38
+    21300078: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_39
+    21300080: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_40
+    21300082: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_41
+    21300084: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_42
+    21300086: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_43
+    21300088: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_44
+    21300090: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_45
+    21300092: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_46
+    21300094: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_47
+    21300096: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_48
+    21300098: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_49
+    21300100: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_50
+    21300102: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_51
+    21300104: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_52
+    21300106: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_53
+    21300108: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_54
+    21300110: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_55
+    21300112: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_56
+    21300114: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_57
+    21300116: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_58
+    21300118: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_59
+    21300120: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_60
+    21300122: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_61
+    21300124: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_62
+    21300126: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_63
+    21300128: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_64
+    21300130: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_65
+    21300132: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_66
+    21300134: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_67
+    21300136: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_68
+    21300138: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_69
+    21300140: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_70
+    21300142: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_71
+    21300144: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_72
+    21300146: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_73
+    21300148: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_74
+    21300150: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_75
+    21300152: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_76
+    21300154: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_77
+    21300156: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_78
+    21300158: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_79
+    21300160: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_80
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bef8be34fe6a4b98e4fd2af640327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb29d604afeab647820ffc537c97ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2dcac6b46398249b6dd4d034a270dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49c0eb829b29148a025cf6fcc426c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060cbd552a0ce8242bf4c8d52ebdc64a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d80fbafd45ac641957fd4606cf3d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db4d584d350c6643ae56a9ac3af495b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5912c3096479745bf5b5d83c96b059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 651.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67190969f6ef27b4a8acbcef3a727de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954417b48dee89408ffe58d2969d7eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9d9af4160a2494183b7f85bc984332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51b373aa2ce54c498720abbbca4a458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2323271b79639847bf6f5220f7de20b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0c10b29b0bdd448e0f95b529c5aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ba1efc7644f74e9b0a47b2abc9e23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e18d649a5025f48add6785828a8e5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7985a3bd0b6740846336a98eb6b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 570.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a43d1cc70f4f634690d48d3c4397db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea7e2c607ac3c42b5a7214577259e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110b816575f07841a6945ee6e6d1632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e1c5e0822ca84c845552ae4bf0d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29cb6eef8596545a4ed014569cc99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e1d4e3b6eb744aba0b9056370363a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0aaabf0e7b16045a299136b7f3c63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551ee9633ef2e448a41084e2f1223e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1107a056fbeee4eacede148c759a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 489.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1fabd505aeba43b45b32e22ec9cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4c9faf27359f46a195fbdb4201e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b42e64982b5f34ba31df35a0d66686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec0f79f0bc5084280e09efccee01af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7670cc588a17b409608f04db2f6bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df40ed91c474be44a879b7d89b6a3c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e522853745b8cd46aff93539daf9f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c359b7498744cf4babdec84e8529fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3445d4b695e34891abf4092eb76f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 408.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc221f00db81cbc40b602ab8175a3be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8c428a7a30724ba9df5c4f20ad81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4917f2cbf6bc4a841043bccc3ea46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567d83d5ef65a94294c4adc52ae9046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f41b83113edca42a211c06758cc71f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e825efb167e09442a02aa89a7c7fd64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5def12501ddddf4f9f8e866bcdf156a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697990ba7553c964bafd08d218841f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1792e95de452fb49bb1b1bf0052c74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_44
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 327.55554
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb333ae5fc1174c995f0eccf97feae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e3ca908ccbeb49bc3ea4fbcc3d8e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3d07602ace73459c15de5bf5eac96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c578ffdddd9fc47ab08421d8dca95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33febbdbcfe2b5f44ab40c37e7d943a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a1c5a9a7d75841af56837402a3168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5856c51471280479d220eccce501da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_51
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3bdf9147312049b164a1a6b823a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11875b45746454e9cbede828e79e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_53
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 246.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f2d1725e30b34e85b2f1555ba22aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5d9746a69803348bc972e79cc38f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fb3daf32fd74459b93b86e579a683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b78b144959ba41bdbf43be304078b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0650069debfbdbd4bbdde109d2b9c91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59a82ab9500e34cab3854cd21ae10b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800766f221bc654aae0dd8a3e71831c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_60
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca9f9ba992b194bbac9c7e4d5fa244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_61
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3b064ebfd194448577fc7523149f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_62
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 165.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1e7b5db6dec948962b43f201510f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdef0c4548d7346a305f2ce83cbe57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af092d6a5675ac46a3af25dffec7fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deffa73c523dbb4429959c224cb4b9ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20181cb684f03154cb38b4d749bbc1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c277cb39f3ba1b4ab7529292d776773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df54f83428eeb4c988abca3d0e21bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_69
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569fc2e251dede49afc051107fe8824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_70
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef94eeba14238429c0ac4e344654d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_71
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 84.55556
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0e2cabed7e604ca0c80897a37a0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b320e5a5b5bf04782c6df8c9578ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd17f128e8aa54498786193e9b195e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc79fe382874e94491177cf27f3d6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a20b32043bfb243ba822c99839ea23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_76
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de880b57770096f44bf53b071db3078d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8a22ab834fc14387438f9ea10ec9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_78
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b3cce8e35080429ee5459ef123e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_79
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a159945709c4c45bfd40a51d5ff00b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1a8bd0a22186f7b3a3d1056fbc806d35--icon-design-game-design_80
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3.5555573
+        width: 81.44444
+        height: 81.44444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b649bbce398411f4faca7a064a442fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b2a6763bdc2818438df6b50de7bc1f6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

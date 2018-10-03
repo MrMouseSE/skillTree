@@ -12,32 +12,25 @@ public class SkillTreeGenerator : MonoBehaviour
 	public Color _PassiveSkillColor;
 	public GameObject _Link;
 	public Color _LinkColor;
+	public float _LinkWidth;
 	public Vector2 _MaxBranches;
 	public float _SkillDistance = 4;
 	public int _TreeSteps = 2;
 	public Vector2 _maxPassiveSkill;
 	public float _SubSkillDistance = 2;
 
+	
 	private List<Transform> _NewSkillsList;
 	private GameObject _RootObject;
-	private const float Pi = 3.1415926f; 
+	private const float Pi = 3.1415926f;
+	private int _TreeStepsGenerate;
 	
 	void Start()
 	{
 		_NewSkillsList = new List<Transform>();
 		_RootObject = Instantiate(_Root);
-		_NewSkillsList.Add(_RootObject.transform);		
-		
-		for (int i = 0; i < _TreeSteps; i++)
-		{
-			var buffer = new List<Transform>();
-
-			foreach (var skill in _NewSkillsList)
-			{
-				buffer = SkillPlacer(skill,buffer);
-			}
-			_NewSkillsList = buffer;
-		}
+		_NewSkillsList.Add(_RootObject.transform);
+		_TreeStepsGenerate = _TreeSteps;
 	}
 
 	List<Transform> SkillPlacer(Transform currPos,List<Transform> buffer)
@@ -71,17 +64,18 @@ public class SkillTreeGenerator : MonoBehaviour
 	Transform SkillPlacePosition(GameObject SkillObject, Transform currPos, float distance, float multiply, 
 		float radialStep, int i, float offset,Color skillColor)
 	{
-		var width = 0.1f;
-		var rotation = Quaternion.Euler(0.0f, Mathf.Rad2Deg * (radialStep*i - offset) + 45.0f, 0.0f);
+		var width = 1*_LinkWidth;
+		var rotation = Quaternion.Euler(0.0f, -Mathf.Rad2Deg * (radialStep*i + offset) - 90.0f , 0.0f);
 		Vector3 position = new Vector3();
 		position.x = currPos.position.x + (float) Math.Cos(radialStep*i+offset)*distance*multiply;
 		position.z = currPos.position.z + (float) Math.Sin(radialStep*i+offset)*distance*multiply;
 		
 		if (SkillObject == _MainSkill)
 		{
-			width = 0.2f;
+			width = 2*_LinkWidth;
 			rotation = Quaternion.Euler(0.0f,180.0f,0.0f);
-			if (Physics.OverlapSphere(position, _SkillDistance-0.1f).Length>0)
+			var colliderRadius = _MainSkill.GetComponent<SphereCollider>().radius * _MainSkill.transform.localScale.y*3.0f;
+			if (Physics.OverlapSphere(position, _SkillDistance-colliderRadius).Length>0)
 			{
 				return null;
 			}
@@ -119,10 +113,36 @@ public class SkillTreeGenerator : MonoBehaviour
 	
 	void Update()
 	{
-		if (Input.anyKeyDown)
+		
+		if (_TreeStepsGenerate>0)
+		{
+			var buffer = new List<Transform>();
+
+			foreach (var skill in _NewSkillsList)
+			{
+				buffer = SkillPlacer(skill,buffer);
+			}
+			_NewSkillsList = buffer;
+			_TreeStepsGenerate--;
+		}
+		
+		if (Input.GetMouseButtonDown(0))
+		{
+			Ray ray;
+			RaycastHit hit;
+			ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+			if (Physics.Raycast(ray, out hit))
+			{
+				var skill = hit.transform.GetComponent<MainSkillMaterial>();
+				skill.SwitchToActive(skill.transform);
+			}
+		}
+		if (Input.GetButtonDown("Jump"))
 		{
 			DestroyImmediate(_RootObject);
 			Start();
 		}
 	}
+
+	
 }
